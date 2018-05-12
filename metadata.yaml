@@ -1,15 +1,21 @@
 _repo: Niilo-Bonpoika-Sture-III-Testamentti_49883
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Kahma, Uuno
     gutenberg_agent_id: '45474'
     url: http://www.gutenberg.org/2009/agents/45474
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Starbäck, C. Georg
     gutenberg_agent_id: '45593'
     url: http://www.gutenberg.org/2009/agents/45593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49883#Niilo-Bonpoika-Sture-III-Testamentti
 gutenberg_issued: '2015-09-05'
 gutenberg_type: Text
 identifiers:
